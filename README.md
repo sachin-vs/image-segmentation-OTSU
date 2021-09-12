@@ -1,2 +1,2 @@
 # image-segmentation-OTSU
-Segment images using otsu thresholding
+Python program to automate segmentation of objects from the background
